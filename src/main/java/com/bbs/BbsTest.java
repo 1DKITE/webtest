@@ -16,7 +16,7 @@ public class BbsTest {
 	}
 
 	private static void list(BbsDAO dao) {
-		List<BbsDTO> list = dao.list();
+		List<BbsDTO> list = dao.list(null);
 		Iterator<BbsDTO> iter = list.iterator();
 		
 		while(iter.hasNext()) {

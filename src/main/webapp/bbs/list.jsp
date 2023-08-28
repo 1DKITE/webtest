@@ -35,7 +35,7 @@
 	
 	String paging = Utility.paging(total, nowPage, recordPerPage, col, word, url);
 %>  
-    
+
 <!DOCTYPE html>
 <html>
 <head>
@@ -129,7 +129,7 @@ function read(bbsno){
         <td><%=dto.getWname() %></td>
         <td><%=dto.getViewcnt() %></td>
         <td><%=dto.getWdate() %></td>
-       <td><%=dto.getGrpno() %></td>
+       <td><%=dto.getGrpno() %></td>	
         <td><%=dto.getIndent() %></td>
         <td><%=dto.getAnsnum() %></td>
       </tr>
