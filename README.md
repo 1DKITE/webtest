@@ -5,9 +5,11 @@
 ---
 
 - 게층형 게시판
-- 설문(투표)
+- ![image](https://github.com/1DKITE/webtest/assets/105035556/bb175d4b-c6ba-43f3-8e20-55727fca3b2a)
+- ![image](https://github.com/1DKITE/webtest/assets/105035556/42de6ed2-b628-4272-ab00-138673d188ca)
+- ![image](https://github.com/1DKITE/webtest/assets/105035556/8bdf7e3b-170a-4b60-9d40-7598b71388d6)
 
-> ## 추가적으로 구현할 기능
+- 설문(투표)
 
 ---
 
